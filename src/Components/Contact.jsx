@@ -11,7 +11,7 @@ function Contact(){
                      <p>
                      Gresham House, 24 Holborn Viaduct, London, England, EC1A 2BN
                     </p>
-                    <a href="">Get direction </a>
+                    <a href="">Get directions </a>
                     </div>
                     <div className=" location">
                     <i class="fas  fa-comments"></i>
