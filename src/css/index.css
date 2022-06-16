@@ -160,7 +160,7 @@ code {
 .what-Make-Us-whapper {
   align-items: center !important;
   text-align: center;
-
+padding-top: 25px;
   line-height: 26px;
   /* color      : #ff214f; */
 
@@ -250,6 +250,7 @@ b {
   display: flex;
   justify-content: space-between;
   margin: auto;
+  background: #fff;
 
 }
 
@@ -284,7 +285,7 @@ b {
   color: #d6d5d5;
   /* padding: 30px; */
   display: flex;
-  align-items: center;
+  /* align-items: center; */
   flex-direction: column;
   width: 621px;
   height: 516px;
@@ -299,7 +300,7 @@ b {
 }
 
 .our-approach-content h3 {
-  margin: 16px 45px;
+  margin: 16px 41px;
   max-width: 500px;
   margin-top: 70px;
 
@@ -484,15 +485,16 @@ color: #d03434;
   margin-bottom: 30px;
   text-align: center;
   color: #d03434;
+  text-transform: none !important;
 
 }
 
 h2 {
 
   font-size: 36px;
-  font-weight: 800;
+  font-weight:normal;
   margin: 0 0 20px;
-  text-transform: capitalize;
+  text-transform: none;
 }
 
 .section-title h2 {
@@ -531,9 +533,14 @@ h2 {
   /* -webkit-text-stroke: 1px rgb(216, 76, 76); */
 }
 .caption p{
-  color: #d03434;
+  /* color: #d03434; */
+  color: black;
 }
+.caption h4{
+  margin-top: 15px;
+  color: black;
 
+}
 /* .our-team-section .thumbnail .caption h4 {
   margin: 5px 0;
 
@@ -541,7 +548,7 @@ h2 {
 
 
 .our-team-section .thumbnail .fa-linkedin-in {
-  background: #d03434;
+  background: #0077B5;
   border-radius: 10px;
   -webkit-border-radius: 10px;
   -moz-border-radius: 10px;
@@ -549,7 +556,7 @@ h2 {
   -o-border-radius: 10px;
   color: #fffefe;
   font-size: 25px;
-  padding: 6px 11px;
+  padding: 8px 11px;
 }
 
 .section-title p {
@@ -559,7 +566,7 @@ h2 {
 }
 
 .Footer{
-  background: #d9d9d9;
+  background: #fff;
   /* background: url(../images/2.png)no-repeat; */
   /* background-size: cover; */
   /* color: hsla(0, 0%, 100%, .75); */
@@ -712,6 +719,7 @@ color: #d03434;
   min-height: 600px;
   display: flex;
   align-items: center;
+  background: #d9d9d9;
 }
 
 .location {

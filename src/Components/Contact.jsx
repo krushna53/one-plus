@@ -11,7 +11,7 @@ function Contact(){
                      <p>
                      Gresham House, 24 Holborn Viaduct, London, England, EC1A 2BN
                     </p>
-                    <a href=""><del>Get direction</del> </a>
+                    <a href="">Get direction </a>
                     </div>
                     <div className=" location">
                     <i class="fas  fa-comments"></i>
@@ -20,7 +20,7 @@ function Contact(){
                      Phone:  +1 123 456 1234 <br/>
                      Phone:  +1 123 654 3678
                     </p>
-                    <a href=""><del>Call us</del> </a>
+                    <a href="">Call us </a>
                     </div>
                     <div className=" location">
                     <i class="fas fa-envelope"></i>
@@ -30,7 +30,7 @@ function Contact(){
                      Email info@oneplus.com
                     </p>
                    
-                    <a href=""><del>Send e-mail</del> </a>
+                    <a href="">Send e-mail </a>
                     </div>
 
                 </div>
