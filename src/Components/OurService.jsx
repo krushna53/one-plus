@@ -3,7 +3,7 @@ import React from "react";
 function OurService() {
   return (
     <>
-      <div className="our-service">
+      <div className="our-service" id="service">
         <div className="container">
           <div className="our-service-wrapper d-flex flex-column justify-content-end">
             <h2 className="pb-4">OUR SERVICES</h2>
@@ -21,7 +21,7 @@ function OurService() {
                 <ul><li> Branding Strategy</li><li>Consumer Marketing Strategy</li><li>Content Strategy</li><li>Digital & Performance marketing Strategy</li>
                 </ul>
               </div>
-              <div className="our-service-box"s>
+              <div className="our-service-box" s>
                 <h3>Design & Execute</h3>
                 <p>We execute the strategies by working with your in-house team or our network of creative talent.</p>
                 <ul><li>Brand Design & Identity</li><li>Content & Social media management</li><li> Digital Campaign & Influencer Planning</li><li>SEO & SEM execution & management</li></ul>

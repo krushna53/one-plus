@@ -8,7 +8,7 @@ import img3 from "../images/image3.jpg";
 function OurTeam(){
     return(
         <>
-            <div className="our-team-section">
+            <div className="our-team-section" id="Team">
                 <div className="container">
                 <div className="section-title"><h2>Our team</h2></div>
 

@@ -9,8 +9,7 @@ function OurApproach() {
       <>
 
          <div className="our-approach-main" id="service">
-            <div className="">
-               <div className="">
+            
                   <div className="our-approach-main-wrapper">
                      <div className="our-approach">
                         <div className="our-approach-img">
@@ -51,9 +50,7 @@ function OurApproach() {
                      </div>
                   </div>
 
-                  
-               </div>
-            </div>
+
          </div>
       </>
    )
