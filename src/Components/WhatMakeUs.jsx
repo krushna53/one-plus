@@ -14,8 +14,7 @@ function WhatMakeUs(){
                     Our aim is to connect your business to the world with marketing solutions that are
                     </p>
                     <p> <b> On-Time. On-Budget. On-Point.</b></p>
-                    </p>
-                    
+
                 </div>
                 </div>
             </div>

@@ -21,9 +21,11 @@ const Accordion = ({ title, children }) => {
     <div className="wrapper About-section" id="about-us">
       <div className="container row">
       <div className="About-wrapper d-flex flex-column justify-content-end">
+       
        </div>
     <div className="About-flex col-lg-6 d-flex justify-content-center flex-column align-items-center">
-    <div className="wrapper">
+    <div className="wrapper"> 
+    <h2>Our approach</h2>
       <Accordion title=" Global experience">
       We are a team of consultants with an immersive experience 
       in global businesses. We work with you as partners; to deliver adaptive, effective
