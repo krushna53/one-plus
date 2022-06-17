@@ -37,9 +37,9 @@ const Accodian = () => (
           <p>The Internet has made the world a much flatter place.It's now or never.Our marketing expertise will create brand identity for your business, across geographies, build strong awareness and customer loyalty amongst the ever dynamic global consumer behaviour.</p>
         </div>
       </div>
-<div className="About-section-btn text-center">
-  <a href="#contact"><button>Work With Us</button></a>
-</div>
+      <div className="About-section-btn text-center">
+        <a href="#contact"><button>Work With Us</button></a>
+      </div>
 
     </div>
     {/*  */}

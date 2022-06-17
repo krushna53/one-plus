@@ -449,6 +449,10 @@ body {
   margin: auto;
 
 }
+.our-service-box h1{
+  color: #000;
+  font-size:33px;
+}
 
 .our-service-box {
   background: #fff;
@@ -591,6 +595,7 @@ h2 {
   color: #000;
   font-size: 18px;
   font-weight: 600;
+  text-align: justify;
 }
 
 .Footer {
