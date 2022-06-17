@@ -10,7 +10,8 @@ function Footernew() {
                         <div className="Footer-title">
                             <h2>Let’s Get In Touch </h2>
                             <div className="Footer-btn">
-                                <a href="hello@oneplus.com">
+                         
+                                <a href="mailto:hello@oneplus.com">
                                     <button>CONTACT US</button>
                                 </a>
                             </div>
