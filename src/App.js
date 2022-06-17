@@ -8,8 +8,9 @@ import Bannersection from './Components/Bannersection';
 // import OurApproach from './Components/OurApproach';
 import OurService from './Components/OurService';
 import OurTeam from './Components/OurTeam';
-import FooterContact from './Components/FooterContact';
-import Contact from './Components/Contact';
+// import FooterContact from './Components/FooterContact';
+import Footernew from './Components/Footernew';
+// import Contact from './Components/Contact';
 import CopyRight from './Components/CopyRight';
 
 
@@ -27,8 +28,9 @@ function App() {
           {/* <OurApproach/> */}
           <OurService/>
           <OurTeam/>
-          <FooterContact/> 
-          <Contact/>
+          {/* <FooterContact/>  */}
+          <Footernew/>
+          {/* <Contact/> */}
           <CopyRight/>
         
           

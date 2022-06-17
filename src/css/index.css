@@ -39,14 +39,14 @@ body {
 
 .menu a {
   border-radius: 0;
-  color: #000;
-  color: #fff;
-  font-size: 16px;
-  font-weight: 800;
-  margin: 9px 20px 0;
-  /* padding       : 8px 2px; */
-  text-transform: none;
-
+    color: #000;
+    color:#d03434;
+    /* font-size: 16px; */
+    font-size: 1.2rem;
+    font-weight: 600;
+    margin: 9px 20px 0;
+    /* padding: 8px 2px; */
+    text-transform: none;
 }
 
 .active {
@@ -64,7 +64,8 @@ body {
   background-size: cover;
   background-attachment: fixed;
   background-position: center;
-  min-height: 650px;
+  /* min-height: 650px; */
+  height: 100vh;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -113,12 +114,15 @@ body {
 .Banner-btn button {
   width: 12rem;
   height: 3rem;
-  border-radius: 0.3rem;
-  background: #d03434;
+  /* border-radius: 0.3rem; */
+  background:none;
   color: #fff;
-  border: none;
-  font-weight: 500;
+  color: #d03434;
+  /* border: none; */
+  font-weight: 800;
   letter-spacing: 1px;
+  border: solid 0.2rem #d03434;
+  text-transform: uppercase;
 }
 
 /* blog section  */
@@ -130,7 +134,7 @@ body {
   background-size: cover;
   background-attachment: fixed;
   background-position: center;
-  min-height: 600px;
+  min-height: 650px;
   display: flex;
   align-items: center;
 }
@@ -148,8 +152,9 @@ body {
 
 .what-Make-US-whapper-col-2 b {
   color: #d03434;
-  font-size: 1.1rem;
+  font-size: 1.2rem;
   text-transform: none;
+  font-weight: 900;
 
 }
 
@@ -197,12 +202,15 @@ body {
 
   width: 12rem;
   height: 3rem;
-  border-radius: 0.3rem;
-  background: #fff;
-  color: #d03434;
-  border: none;
-  font-weight: 600;
+  /* border-radius: 0.3rem; */
+  background: none;
+  color: #fff;
+  /* color: #d03434; */
+  /* border: none; */
+  font-weight: 800;
   letter-spacing: 1px;
+  border: solid 0.2rem #ffff;
+  text-transform: uppercase;
 }
 
 
@@ -391,7 +399,8 @@ body {
   background-attachment: fixed;
   background-position: inherit;
   /* padding              : 150px 80px 100px 0px; */
-  min-height: 600px;
+  /* min-height: 600px; */
+  min-height: 650px;
   display: flex;
   align-items: center;
 }
@@ -460,6 +469,14 @@ body {
   font-weight: 500;
 
 }
+.our-service-box ul li:before {
+  color: #d03434;
+  content: "*";
+  font-size: 1rem;
+  padding-right: 0.5rem;
+  position: relative;
+  top: .2rem;
+}
 
 /* our-team section  */
 
@@ -495,12 +512,13 @@ h2 {
 }
 
 .section-title h2 {
-  margin-bottom: 15px;
+  /* margin-bottom: 15px; */
   margin-top: 10px;
   padding-bottom: 15px;
   position: relative;
   /* font-family:'Libre Baskerville', serif !important;  */
   font-size: 2.1rem !important;
+  margin-bottom: 2.4rem;
 }
 
 .section-title h2:after {
@@ -533,14 +551,16 @@ h2 {
 }
 
 .caption p {
-  /* color: #d03434; */
-  color: black;
+  color: #d03434;
+  /* color: black; */
   padding-bottom: 7px;
+  font-size: 1rem;
+  font-weight: 600;
 }
 
 .caption h4 {
   margin-top: 15px;
-  color: black;
+  /* color: black; */
 
 }
 
@@ -551,7 +571,8 @@ h2 {
 
 
 .our-team-section .thumbnail .fa-linkedin-in {
-  background: #0077B5;
+  /* background: #0077B5; */
+  background: #6f6f6f;
   border-radius: 10px;
   -webkit-border-radius: 10px;
   -moz-border-radius: 10px;
@@ -569,14 +590,16 @@ h2 {
 }
 
 .Footer {
-  background: #fff;
+  /* background: #fff; */
+  background: #ccc;
   /* background: url(../images/2.png)no-repeat; */
   /* background-size: cover; */
   /* color: hsla(0, 0%, 100%, .75); */
   /* padding: 100px 0 60px; */
+ 
+   min-height: 650px;
   display: flex;
   align-items: center;
-  min-height: 400px;
 }
 
 .Footer-section-img img {
@@ -719,7 +742,29 @@ form .btn-custom:hover {
   color: #000;
   margin-right: 10px;
 }
-
+.Footer-btn button {
+  width: 12rem;
+  height: 3rem;
+  /* border-radius: 0.3rem; */
+  background: none;
+  color: #fff;
+  color: #d03434;
+  /* border: none; */
+  font-weight: 800;
+  letter-spacing: 1px;
+  border: solid 0.2rem #d03434;
+  text-transform: uppercase;
+}
+.Footer-title-con{
+  border-bottom: 1px solid #000;
+}
+.Footer-title{
+  margin-bottom: 3rem;
+ 
+}
+.Footer-con{
+  margin-top: 2rem;
+}
 /* contact section  */
 .Contact {
   min-height: 600px;
@@ -737,6 +782,7 @@ form .btn-custom:hover {
   display: block;
   font-size: 32px;
   margin-bottom: 25px;
+  color: #000;
 }
 
 .location a {
@@ -971,9 +1017,9 @@ ul {
     max-width: 24vw;
   }
 
-  .our-service {
+  /* .our-service {
     margin-left: 50px;
-  }
+  } */
 
   .row {
     --bs-gutter-x: 0rem !important;
@@ -1118,13 +1164,22 @@ ul {
   .our-service-flex,
   .our-approach,
   .Contact,
-  .container {
-    display: block;
+  .container,
+  .social ul {
+    display: block !important ;
+  }
+  .our-service{
+    display: block !important;
   }
 
   .copy-right .container {
     display: flex;
   }
+  .our-service-box {
+  
+    padding: 0px 0px !important;
+    width: auto;
+}
 
   .our-approach-content {
     background: #000000bf;
@@ -1257,7 +1312,25 @@ ul {
   .menu a {
     color: #d03434 !important;
   }
+  .our-approach-section{
+    display: block !important;
+    /* width: 100vw !important; */
+    height: auto;
+  }.Footer-title {
+    /* margin-bottom: 3rem; */
+    margin-top: 2rem;
+    text-align: center;
+}
+  
 
+.our-approach-section-box {
+  width: 100% !important;
+  padding: 0rem !important ;
+}
+.About-section-btn {
+  padding-bottom: 5rem;
+  margin-top: 2rem;
+}
 }
 
 @media only screen and (min-device-width : 768px) and (max-device-width : 1024px) {
@@ -1359,3 +1432,10 @@ ul {
 }
 
 /*  */
+
+@media only screen and (min-device-width : 768px) and (max-device-width : 1400px) {
+.Banner-section{ 
+  height: 100vh;
+  width: 100%;
+}
+}

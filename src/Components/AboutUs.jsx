@@ -21,7 +21,7 @@ const Accodian = () => (
   <div className="About-section" id="about-us">
     <div className="container">
       <div className="About-wrapper d-flex flex-column justify-content-center align-items-center section-title">
-        <h2>WHY US?</h2>
+        <h2>WHY US ?</h2>
       </div>
       <div className="our-approach-section">
         <div className="our-approach-section-box">

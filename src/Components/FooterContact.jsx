@@ -14,7 +14,7 @@ function FooterContact() {
                                 <h2>Contact us</h2>
                                 {/* <p>Ways to reach us</p> */}
                             </div>
-                            <form name="sentMessage">
+                             <form name="sentMessage">
                                 <div className="row">
                                     <div className="col-md-6">
                                         <div className="form-group">
