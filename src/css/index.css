@@ -402,7 +402,7 @@ body {
 
 .our-service {
   /* background           : url(../images/5.png) no-repeat 0 0; */
-
+  background: #A9A9A9;
   min-height: 650px;
   display: flex;
   align-items: center;
@@ -424,7 +424,8 @@ body {
 }
 
 .our-service h3 {
-  color: #d03434;
+  /* color: #d03434; */
+  color: #fff;
   /* font-family: Publico Headline Web Roman, sans-serif !important; */
   font-size: 2em;
   font-size: 33px;
@@ -436,10 +437,11 @@ body {
 
 .our-service-wrapper p {
   max-width: 331px;
-  font-size: 1.1rem !important;
+  font-size: 1.2rem !important;
   letter-spacing: 1;
   font-weight: normal !important;
   text-align: left;
+  color: #fff !important;
 }
 
 .our-service-flex {
@@ -454,7 +456,7 @@ body {
   font-size:33px;
 }
 
-.our-service-box {
+/* .our-service-box {
   background: #fff;
   border-radius: 10px;
   -webkit-border-radius: 10px;
@@ -465,14 +467,14 @@ body {
   margin-bottom: 40px;
   padding: 2px 10px;
   width: 372px
-}
+} */
 
 .our-service-box ul {
-  font-size: 1rem;
+  font-size: 1.1rem;
   line-height: 1.9;
-  text-align: justify;
+  /* text-align: justify; */
   color: #d03434;
-  font-weight: 500;
+  font-weight: 600;
 
 }
 
@@ -580,13 +582,15 @@ h2 {
 
 .our-team-section .thumbnail .fa-linkedin-in {
   /* background: #0077B5; */
-  background: #6f6f6f;
+  
+  /* background: #6f6f6f; */
+  background: #D3D3D3;
   border-radius: 10px;
   -webkit-border-radius: 10px;
   -moz-border-radius: 10px;
   -ms-border-radius: 10px;
   -o-border-radius: 10px;
-  color: #fffefe;
+  color: #000;
   font-size: 25px;
   padding: 8px 11px;
 }
@@ -599,10 +603,7 @@ h2 {
 }
 
 .Footer {
-
   background: #ccc;
-
-
   min-height: 650px;
   display: flex;
   align-items: center;
