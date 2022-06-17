@@ -2,11 +2,11 @@ import React from 'react';
 import './css/index.css';
 import Menu from './Components/Menu';
 import WhatMakeUs from './Components/WhatMakeUs';
-import Test from './Components/test';
+// import Test from './Components/test';
 import Accordion from './Components/AboutUs';
 import Bannersection from './Components/Bannersection';
-import OurApproach from './Components/OurApproach';
-// import OurService from './Components/OurService';
+// import OurApproach from './Components/OurApproach';
+import OurService from './Components/OurService';
 import OurTeam from './Components/OurTeam';
 import FooterContact from './Components/FooterContact';
 import Contact from './Components/Contact';
@@ -22,10 +22,10 @@ function App() {
           <Menu/>
           <Bannersection/>
           <WhatMakeUs/>
-          <Test/>
+          {/* <Test/> */}
           <Accordion/>
-          <OurApproach/>
-          {/* <OurService/> */}
+          {/* <OurApproach/> */}
+          <OurService/>
           <OurTeam/>
           <FooterContact/> 
           <Contact/>
