@@ -19,7 +19,7 @@ function OurTeam(){
                         <div className="caption">
                         <h4>XINGNA FU</h4>
                         <p>Ceo & Founder</p>
-                        <a href="https://www.linkedin.com/in/xingna-fu-15b453195/"><i className="fa-brands fa-linkedin-in" aria-hidden="true"></i></a>
+                        <a href="https://www.linkedin.com/in/xingna-fu-15b453195/" target="_blank"><i className="fa-brands fa-linkedin-in" aria-hidden="true"></i></a>
                         </div>
 
                     </div>
@@ -42,7 +42,7 @@ function OurTeam(){
                         <h4>KOICHI YOKOZEKI</h4>
                         <p>Partner & Project Lead</p>
                         
-                        <a href="https://www.linkedin.com/in/koichi-yokozeki-b45675159/" target="_blank" rel="noreferrer"><i className="fa-brands fa-linkedin-in" aria-hidden="true"></i></a>
+                        <a href="https://www.linkedin.com/in/koichi-yokozeki-b45675159/" target="_blank" rel="noreferrer"><i className="fa-brands fa-linkedin-in" aria-hidden="true" target="_blank"></i></a>
                         </div>
 
                     </div>
