@@ -18,7 +18,7 @@ function OurTeam(){
                     <img src={img2} alt=".." className="team-img" /> 
                         <div className="caption">
                         <h4>XINGNA FU</h4>
-                        <p>Ceo & Founder</p>
+                        <p>CEO & Founder</p>
                         <a href="https://www.linkedin.com/in/xingna-fu-15b453195/" target="_blank"><i className="fa-brands fa-linkedin-in" aria-hidden="true"></i></a>
                         </div>
 

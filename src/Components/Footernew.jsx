@@ -8,7 +8,7 @@ function Footernew() {
                 <div className="container">
                     <div className="row Footer-title-con">
                         <div className="Footer-title">
-                            <h2>Let’s Get In Touch </h2>
+                            <h2>Let’s get in touch </h2>
                             <div className="Footer-btn">
                          
                                 <a href="mailto:hello@oneplus.com">
