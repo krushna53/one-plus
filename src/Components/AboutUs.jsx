@@ -18,7 +18,7 @@ const Accordion = ({ title, children }) => {
   );
 };
 const Accodian = () => (
-  <div className="About-section" id="about-us">
+  <div className="About-section" id="aboutus">
     <div className="container">
       <div className="About-wrapper d-flex flex-column justify-content-center align-items-center section-title">
         <h2>WHY US ?</h2>

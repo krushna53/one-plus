@@ -17,7 +17,7 @@ function OurTeam(){
                     <div className="thumbnail">
                     <img src={img2} alt=".." className="team-img" /> 
                         <div className="caption">
-                        <h4>Xingna Fu</h4>
+                        <h4>XINGNA FU</h4>
                         <p>Ceo & Founder</p>
                         <a href="https://www.linkedin.com/in/xingna-fu-15b453195/"><i className="fa-brands fa-linkedin-in" aria-hidden="true"></i></a>
                         </div>
@@ -28,7 +28,7 @@ function OurTeam(){
                     <div className="thumbnail">
                     <img src={img3} alt=".." className="team-img" /> 
                         <div className="caption">
-                        <h4>Aditi Ayare</h4>
+                        <h4>ADITI AYARE</h4>
                         <p>Partner & Project Lead</p>
                         <a href="https://www.linkedin.com/in/aditiayare/" target="_blank" rel="noreferrer"><i className="fa-brands fa-linkedin-in" aria-hidden="true"></i></a>
                         </div>
@@ -39,7 +39,7 @@ function OurTeam(){
                     <div className="thumbnail">
                         <img src={img1} alt=".." className="team-img" />                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
                         <div className="caption">
-                        <h4>Koichi Yokozeki</h4>
+                        <h4>KOICHI YOKOZEKI</h4>
                         <p>Partner & Project Lead</p>
                         
                         <a href="https://www.linkedin.com/in/koichi-yokozeki-b45675159/" target="_blank" rel="noreferrer"><i className="fa-brands fa-linkedin-in" aria-hidden="true"></i></a>
