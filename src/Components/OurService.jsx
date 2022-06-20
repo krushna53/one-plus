@@ -29,7 +29,7 @@ function OurService() {
                   <li>Consumer Marketing Strategy</li>
                   <li>Content Strategy</li>
                   <li>Digital & Performance marketing Strategy</li>
-                  <li>Performance Marketing Strategy</li>
+                  {/* <li>Performance Marketing Strategy</li> */}
                 </ul>
               </div>
               <div className="our-service-box">
@@ -37,10 +37,10 @@ function OurService() {
                 <h3>Design & Execute</h3>
                 <p>We partner with your team to co-create solutions and deliver them in-house or through our network of creative talent.</p>
                 <ul>
-                  <li>Brand Identity Design</li>
-                  <li>Digital & Social Media Campaigns</li>
+                  <li>Brand Design & Identity</li>
+                  <li>Content & Social media management</li>
                   <li>Digital Campaign & Influencer Planning</li>
-                  <li>Influencer Planning</li>
+                  <li>SEO & SEM management</li>
                 </ul>
               </div>
             </div>
