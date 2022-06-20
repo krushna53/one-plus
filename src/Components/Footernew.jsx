@@ -7,7 +7,7 @@ function Footernew() {
             <div className="Footer" id="contact">
                 <div className="container d-flex justify-content-between">
                     <div className="Footer-title">
-                        <h2>Let's get in touch </h2>
+                        <h2>Get in touch with us </h2>
                         <div className="Footer-btn">
                             <a href="mailto:hello@oneplusmarketing.com">
                                 <button>CONTACT US</button>
