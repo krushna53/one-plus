@@ -1,7 +1,7 @@
 import React from "react";
-import img1 from "../images/image1.jpg";
-import img2 from "../images/image2.jpg";
-import img3 from "../images/image3.jpg";
+import img1 from "../images/XINGNAFU.jpeg";
+import img2 from "../images/newteam.png";
+// import img3 from "../images/KOICHIYOKOZEKI.jpeg";
 
 
 
@@ -15,7 +15,7 @@ function OurTeam(){
                <div id="row">
                 <div className="team">
                     <div className="thumbnail">
-                    <img src={img2} alt=".." className="team-img" /> 
+                    <img src={img1} alt=".." className="team-img" /> 
                         <div className="caption">
                         <h4>XINGNA FU</h4>
                         <p>CEO & Founder</p>
@@ -26,7 +26,7 @@ function OurTeam(){
                 </div>
                 <div className="team">
                     <div className="thumbnail">
-                    <img src={img3} alt=".." className="team-img" /> 
+                    <img src={img2} alt=".." className="team-img" /> 
                         <div className="caption">
                         <h4>ADITI AYARE</h4>
                         <p>Partner & Project Lead</p>
@@ -35,9 +35,9 @@ function OurTeam(){
 
                     </div>
                 </div>
-                <div className="team">
+                {/* <div className="team">
                     <div className="thumbnail">
-                        <img src={img1} alt=".." className="team-img" />                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+                        <img src={img3} alt=".." className="team-img" />                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
                         <div className="caption">
                         <h4>KOICHI YOKOZEKI</h4>
                         <p>Partner & Project Lead</p>
@@ -46,7 +46,7 @@ function OurTeam(){
                         </div>
 
                     </div>
-                </div>
+                </div> */}
                </div>
               
                 </div>

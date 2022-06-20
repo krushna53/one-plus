@@ -557,7 +557,7 @@ h2 {
 
 #row {
   display: flex;
-  justify-content: space-between;
+  justify-content: space-evenly;
 }
 
 .our-team-section .thumbnail {
@@ -587,12 +587,19 @@ h2 {
   font-weight: 500;
 
 }
-
-/* .our-team-section .thumbnail .caption h4 {
-  margin: 5px 0;
-
-} */
-
+.our-team-section .section-title h2 {
+  color: #fff;
+}
+.our-team-section .section-title h2:after {
+  background: linear-gradient(90deg, #fff 0, #fff5f5);
+  bottom: 0;
+  content: "";
+  height: 4px;
+  left: 50%;
+  margin-left: -30px;
+  position: absolute;
+  width: 60px;
+}
 
 .our-team-section .thumbnail .fa-linkedin-in {
   /* background: #0077B5; */
