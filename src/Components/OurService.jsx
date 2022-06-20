@@ -9,7 +9,7 @@ function OurService() {
             <h2>OUR SERVICES</h2>
             <div className="our-service-flex">
               <div className="our-service-box">
-                <h1>01</h1>
+               
                 <h3>Evaluate & Define</h3>
                 <p>We audit how customers interact with your brand and work with your marketing team to define objectives and unlock growth.</p>
                 <ul>
@@ -19,7 +19,7 @@ function OurService() {
                 </ul>
               </div>
               <div className="our-service-box">
-                <h1>02</h1>
+             
                 <h3>
                   Strategize
                 </h3>
@@ -33,7 +33,7 @@ function OurService() {
                 </ul>
               </div>
               <div className="our-service-box">
-                <h1>03</h1>
+              
                 <h3>Design & Execute</h3>
                 <p>We partner with your team to co-create solutions and deliver them in-house or through our network of creative talent.</p>
                 <ul>

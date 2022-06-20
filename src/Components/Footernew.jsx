@@ -5,51 +5,34 @@ function Footernew() {
     return (
         <>
             <div className="Footer" id="contact">
-                <div className="container">
-                    <div className="row Footer-title-con">
-                        <div className="Footer-title">
-                            <h2>Let’s get in touch </h2>
-                            <div className="Footer-btn">
-                         
-                                <a href="mailto:hello@oneplus.com">
-                                    <button>CONTACT US</button>
-                                </a>
-                            </div>
-                        </div>
-
-                    </div>
-                    <div className="row">
-                        <div className="container d-flex justify-content-between Footer-con">
-                            <div className=" location">
-                                <i class="fas fa-map-marker"></i>
-                                <span>Visit our office</span>
-                                <p>
-                                    Gresham House, 24 Holborn Viaduct, London, England, EC1A 2BN
-                                </p>
-                                <a href="">Get directions </a>
-                            </div>
-                            <div className="location">
-                                <i class="fas  fa-comments"></i>
-                                <span>Let's talk</span>
-                                <p>
-                                    Phone:  +1 123 456 1234 <br />
-                                    Phone:  +1 123 654 3678
-                                </p>
-                                <a href="">Call us </a>
-                            </div>
-                            <div className=" location">
-                                <i class="fas fa-envelope"></i>
-                                <span>E-mail us</span>
-                                <p>
-                                    Email hello@oneplus.com <br />
-                                    Email info@oneplus.com
-                                </p>
-
-                                <a href="">Send e-mail </a>
-                            </div>
-
+                <div className="container d-flex justify-content-between">
+                    <div className="Footer-title">
+                        <h2>Let's get in touch </h2>
+                        <div className="Footer-btn">
+                            <a href="mailto:hello@oneplusmarketing.com">
+                                <button>CONTACT US</button>
+                            </a>
                         </div>
                     </div>
+                    
+                        <div className=" location">
+                            <i class="fas fa-map-marker"></i>
+                            <span>Visit our office</span>
+                            <p>
+                                Gresham House, 24 Holborn Viaduct,
+                                London, England, EC1A 2BN
+                            </p>
+                            <a href="https://www.google.com/maps/dir//Gresham+House,+London+EC1A+2BN,+United+Kingdom/@51.5170006,-0.1047972,21z/data=!4m8!4m7!1m0!1m5!1m1!1s0x48761b528ff5348b:0x5ad6d458c32f292c!2m2!1d-0.1047565!2d51.5170021" target="_blank">Get directions </a>
+                        </div>
+                        <div className=" location">
+                            <i class="fas fa-envelope"></i>
+                            <span>E-mail us</span>
+                            <p>
+                                hello@oneplusmarketing.com
+                            </p>
+                            <a href="mailto:hello@oneplusmarketing.com">Send e-mail </a>
+                        </div>
+                   
 
                 </div>
 

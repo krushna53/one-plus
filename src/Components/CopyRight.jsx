@@ -1,5 +1,5 @@
 import React from "react";
-import logo from "../images/logo.png";
+import logo from "../images/Logo_001.png";
 
 
 function CopyRight(){
@@ -11,7 +11,7 @@ function CopyRight(){
                 <img src={logo} alt=" ..." className="footer-logo" />
               </div>
               <div className="copy-right-text">
-               <p> Copyright © 2022 OnePlus</p>
+               <p> Copyrights @OnePlusMarketing</p>
              </div>
              <div className="social">
                 <ul className=" d-flex">

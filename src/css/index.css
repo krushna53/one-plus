@@ -36,8 +36,8 @@ body {
 .logo img {
   height: auto;
   position: relative;
-  width: 65px;
-  /* max-width: 100px; */
+  /* width: 65px; */
+  max-width: 100px;
 }
 
 .menu a {
@@ -141,7 +141,8 @@ body {
 
 .what-Make-US-whapper-col-2 b {
   color: #d03434;
-  font-size: 1.2rem;
+  /* font-size: 1.2rem; */
+  font-size: 22.5px;
   text-transform: none;
   font-weight: 900;
 
@@ -152,7 +153,8 @@ body {
 
 .what-Make-Us-whapper p {
   line-height: 1.3;
-  font-size: 1.4rem;
+  /* font-size: 1.4rem; */
+  font-size: 16.4px;
 }
 
 
@@ -402,7 +404,7 @@ body {
 
 .our-service {
   /* background           : url(../images/5.png) no-repeat 0 0; */
-  background: #A9A9A9;
+  background: #414141;
   min-height: 650px;
   display: flex;
   align-items: center;
@@ -415,7 +417,17 @@ body {
 }
 
 .our-service-wrapper h2 {
-  color: #d03434;
+  color: #fff !important;
+}
+.our-service-wrapper  h2:after{
+  background: linear-gradient(90deg, #fff5f5 0, #ffffff) !important;
+  bottom: 0;
+  content: "";
+  height: 4px;
+  left: 50%;
+  margin-left: -30px;
+  position: absolute;
+  width: 60px;
 }
 
 .our-service h3,
@@ -428,8 +440,9 @@ body {
   color: #fff;
   /* font-family: Publico Headline Web Roman, sans-serif !important; */
   font-size: 2em;
-  font-size: 33px;
-  font-weight: 600;
+  /* font-size: 33px; */
+  /* font-weight: 600; */
+font-weight: 500;
   letter-spacing: 1.2g10;
   padding: 5px 0;
   text-transform: capitalize;
@@ -437,10 +450,11 @@ body {
 
 .our-service-wrapper p {
   max-width: 331px;
-  font-size: 1.2rem !important;
+  /* font-size: 1.2rem !important; */
+  font-size: .9rem !important;
   letter-spacing: 1;
   font-weight: normal !important;
-  text-align: left;
+  text-align: left !important;
   color: #fff !important;
 }
 
@@ -470,21 +484,21 @@ body {
 } */
 
 .our-service-box ul {
-  font-size: 1rem;
+  font-size: .9rem;
   line-height: 1.9;
   /* text-align: justify; */
-  color: #d03434;
-  font-weight: 600;
+  color: #fff;
+  font-weight: 500;
 
 }
 
 .our-service-box ul li:before {
-  color: #d03434;
-  content: "*";
+  color: #fff;
+  content: "+";
   font-size: 1rem;
   padding-right: 0.5rem;
   position: relative;
-  top: .2rem;
+ 
 }
 
 /* our-team section  */
@@ -604,7 +618,8 @@ h2 {
 
 .Footer {
   background: #ccc;
-  min-height: 650px;
+  /* min-height: 650px; */
+  min-height: 450px;
   display: flex;
   align-items: center;
 }
@@ -705,7 +720,7 @@ ul {
 
 .copy-right .social i.fab {
 
-  background-color: #d03434;
+  /* background-color: #d03434; */
   border: 2px solid #fff;
   border-radius: 50%;
   color: #fff;
@@ -1067,8 +1082,11 @@ ul {
     padding-bottom: 5rem;
     margin-top: 2rem;
   }
+  .Footer {
+   
+    padding-bottom: 1.1rem;
 }
-
+}
 @media only screen and (min-device-width : 768px) and (max-device-width : 1024px) {
   .our-approach {
     display: block;
