@@ -32,8 +32,7 @@ function Footernew() {
                             </p>
                             <a href="mailto:hello@oneplusmarketing.com">Send e-mail </a>
                         </div>
-                   
-
+        
                 </div>
 
             </div>

@@ -141,8 +141,8 @@ body {
 
 .what-Make-US-whapper-col-2 b {
   color: #d03434;
-  /* font-size: 1.2rem; */
-  font-size: 22.5px;
+  font-size: 16.9px;
+  /* font-size: 22.5px; */
   text-transform: none;
   font-weight: 900;
 
@@ -170,7 +170,7 @@ body {
   /* background: #f7f7f7; */
   background: #d03434;
   color: #fff !important;
-  min-height: 600px;
+  min-height: 650px;
   display: flex;
   align-items: center;
 

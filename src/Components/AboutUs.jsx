@@ -26,15 +26,15 @@ const Accodian = () => (
       <div className="our-approach-section">
         <div className="our-approach-section-box">
           <h4>Global Experience</h4>
-          <p>We are a team of consultants with an immersive experience in global businesses.Our vision is to work with our clients as partners; to deliver adaptive, effective and result driven solutions in response to the VUCA world.</p>
+          <p>We are a team of consultants with an immersive experience in global businesses. Our vision is to work with our clients as partners; to deliver adaptive, effective and result driven solutions in response to the VUCA world.</p>
         </div>
         <div className="our-approach-section-box">
           <h4>Customized Package</h4>
-          <p>Our aim is to deliver concise, objective driven, ROI focused solutions.Hence,we provide personalised, expert attention in unique package depending on client’s business goal, budget and timeline.</p>
+          <p>Our aim is to deliver concise, objective driven, ROI focused solutions. Hence,we provide personalised, expert attention in unique package depending on client’s business goal, budget and timeline.</p>
         </div>
         <div className="our-approach-section-box">
           <h4>Cultural Integration</h4>
-          <p>The Internet has made the world a much flatter place.It's now or never.Our marketing expertise will create brand identity for your business, across geographies, build strong awareness and customer loyalty amongst the ever dynamic global consumer behaviour.</p>
+          <p>The Internet has made the world a much flatter place. It's now or never. Our marketing expertise will create brand identity for your business, across geographies, build strong awareness and customer loyalty amongst the ever dynamic global consumer behaviour.</p>
         </div>
       </div>
       <div className="About-section-btn text-center">
