@@ -1,5 +1,4 @@
 import React from "react";
-import logo from "../images/Logo_001.png";
 
 
 function CopyRight(){
