@@ -22,7 +22,7 @@ function Footernew() {
                                 Gresham House, 24 Holborn Viaduct,
                                 London, England, EC1A 2BN
                             </p>
-                            <a href="https://www.google.com/maps/dir//Gresham+House,+London+EC1A+2BN,+United+Kingdom/@51.5170006,-0.1047972,21z/data=!4m8!4m7!1m0!1m5!1m1!1s0x48761b528ff5348b:0x5ad6d458c32f292c!2m2!1d-0.1047565!2d51.5170021" target="_blank">Get directions </a>
+                            <a href="https://www.google.com/maps/dir//Gresham+House,+London+EC1A+2BN,+United+Kingdom/@51.5170006,-0.1047972,21z/data=!4m8!4m7!1m0!1m5!1m1!1s0x48761b528ff5348b:0x5ad6d458c32f292c!2m2!1d-0.1047565!2d51.5170021" target="blank">Get directions </a>
                         </div>
                         <div className=" location">
                             <i class="fas fa-envelope"></i>
