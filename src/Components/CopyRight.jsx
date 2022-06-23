@@ -8,7 +8,7 @@ function CopyRight(){
         <div className="copy-right">
             <div className=" container d-flex justify-content-between align-items-center">
               <div className="logo">
-              <a href="index.html">  <img src={logo} alt=" ..." className="footer-logo" /></a>
+              <a href="index.html">  </a>
               </div>
               <div className="copy-right-text">
                <p> Copyrights @OnePlusMarketing</p>
