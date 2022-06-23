@@ -24,7 +24,7 @@ window.addEventListener('scroll',changeBackground);
     <div className ={ navbar ? 'top-header-section active ': 'top-header-section '}>
       <div className="d-flex justify-content-between">
         <div className="logo">
-       <a href="index.html">   <img src={logo} /></a>
+       <a href="index.html">   <img src={logo} alt='logo'/></a>
         </div>
         <div
           className={isMobile ? "nav-links-mobile" : "nav-links"}
