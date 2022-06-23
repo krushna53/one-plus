@@ -19,7 +19,7 @@ function OurTeam(){
                         <div className="caption">
                         <h4>XINGNA FU</h4>
                         <p>CEO & Founder</p>
-                        <a href="https://www.linkedin.com/in/xingna-fu-15b453195/" target="_blank"><i className="fa-brands fa-linkedin-in" aria-hidden="true"></i></a>
+                        <a href="https://www.linkedin.com/in/xingna-fu-15b453195/" target="blank"><i className="fa-brands fa-linkedin-in" aria-hidden="true"></i></a>
                         </div>
 
                     </div>
@@ -30,7 +30,7 @@ function OurTeam(){
                         <div className="caption">
                         <h4>ADITI AYARE</h4>
                         <p>Partner & Project Lead</p>
-                        <a href="https://www.linkedin.com/in/aditiayare/" target="_blank" rel="noreferrer"><i className="fa-brands fa-linkedin-in" aria-hidden="true"></i></a>
+                        <a href="https://www.linkedin.com/in/aditiayare/" target="blank" rel="noreferrer"><i className="fa-brands fa-linkedin-in" aria-hidden="true"></i></a>
                         </div>
 
                     </div>
