@@ -865,6 +865,7 @@ ul {
     height: auto;
     position: relative;
     width: 83px !important;
+    left: 8px;
   }
 
   .Banner-wrapper {
@@ -892,7 +893,7 @@ ul {
     display: block;
     list-style: none;
     left: 0;
-    top: 75px;
+    top: 46px;
     transition: all 0.5s ease-out;
     -webkit-transition: all 0.5s ease-out;
     -moz-transition: all 0.5s ease-out;
@@ -913,6 +914,11 @@ ul {
     right: 25px;
     background: none;
   }
+  .mobile-menu-icon i{
+    position: absolute;
+    right:-8px;
+  }
+ 
 
   .team-img {
     border-radius: 50%;
@@ -936,7 +942,7 @@ ul {
     display: flex;
   }
   .our-service-box p{
-    max-width: 20px;
+    max-width: 100%;
   }
 
   .our-service-box {
@@ -1096,15 +1102,19 @@ ul {
     margin-top: 2rem;
   }
   .Footer {
-   
-    padding-bottom: 1.1rem;
+   padding-bottom: 1.1rem;
+}
+.what-Make-Us-section,.About-section,.our-service,.our-team-section,.Footer{
+  padding: 76px 0px;
 }
 }
 @media only screen and (min-device-width : 768px) and (max-device-width : 1024px) {
   .our-approach {
     display: block;
   }
-
+  .our-service h3{
+    text-align: left !important;
+  }
   .our-approach-content {
     flex-direction: row;
     width: 100%;
