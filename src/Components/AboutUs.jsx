@@ -1,21 +1,6 @@
 import React from "react";
 
-const Accordion = ({ title, children }) => {
-  const [isOpen, setOpen] = React.useState(false);
-  return (
-    <div className="accordion-wrapper">
-      <div
-        className={`accordion-title ${isOpen ? "open" : "open"}`}
-        onClick={() => setOpen(!isOpen)}
-      >
-        {title}
-      </div>
-      <div className={`accordion-item ${!isOpen ? "collapsed" : ""}`}>
-        <div className="accordion-content">{children}</div>
-      </div>
-    </div>
-  );
-};
+
 const Accodian = () => (
   <div className="About-section" id="aboutus">
     <div className="container">
