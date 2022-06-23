@@ -1,5 +1,4 @@
 import React from "react";
-import img3 from "../images/image4.png";
 
 const Accordion = ({ title, children }) => {
   const [isOpen, setOpen] = React.useState(false);
