@@ -9,7 +9,7 @@ function Footernew() {
                     <div className="Footer-title">
                         <h2>Get in touch with us </h2>
                         <div className="Footer-btn">
-                            <a href="mailto:hello@oneplusmarketing.com">
+                            <a href="mailto:hello@oneplusmarketing.co.uk">
                                 <button>CONTACT US</button>
                             </a>
                         </div>
@@ -28,9 +28,9 @@ function Footernew() {
                             <i class="fas fa-envelope"></i>
                             <span>E-mail us</span>
                             <p>
-                                hello@oneplusmarketing.com
+                                hello@oneplusmarketing.co.uk
                             </p>
-                            <a href="mailto:hello@oneplusmarketing.com">Send e-mail </a>
+                            <a href="mailto:hello@oneplusmarketing.co.uk">Send e-mail </a>
                         </div>
         
                 </div>
