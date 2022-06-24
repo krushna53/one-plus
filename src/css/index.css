@@ -869,7 +869,6 @@ ul {
   }
 
   .Banner-wrapper {
-
     margin-top: 0px;
     margin-left: 0px;
   }
@@ -972,27 +971,6 @@ ul {
 
 
 
-  .our-approach-img p {
-
-    left: 19vw;
-    width: 244px !important;
-    background: #d03434;
-    padding: 8px;
-    border-radius: 6px;
-    transform: translate(0%, 3vh) !important;
-  }
-
-  .text-white {
-    left: 30vw;
-    transform: translate(16vw, 0vw);
-    z-index: 33;
-    font-size: 40px;
-  }
-
-  .approach-img {
-    width: 100%;
-    height: auto;
-  }
 
   .blog-section {
 
