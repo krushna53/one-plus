@@ -885,7 +885,7 @@ ul {
 
 @media screen and (max-width: 767px) {
   .nav-links {
-    display: none;
+    display: none;  
   }
 
   .nav-links-mobile {
@@ -946,8 +946,7 @@ ul {
   }
 
   .our-service-box {
-
-    padding: 0px 0px !important;
+  padding: 1rem 0rem !important;
     width: auto;
   }
 
@@ -1094,7 +1093,7 @@ ul {
 
   .our-approach-section-box {
     width: 100% !important;
-    padding: 0rem !important;
+    padding:1rem 0rem !important;
   }
 
   .About-section-btn {
