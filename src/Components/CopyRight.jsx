@@ -14,9 +14,10 @@ function CopyRight(){
              </div>
              <div className="social">
                 <ul className=" d-flex">
-                   <li><a href="fb.com"><i className="fab fa-facebook-f"></i></a></li>
-                   <li><a href="twitter.com"><i className="fab fa-twitter"></i></a></li>
-                    <li><a href="youtube.com"><i className="fab fa-youtube"></i></a></li>
+                   <li><a href="https://www.facebook.com/OPMarketingTeam-106083345486903" target="-blank"><i className="fab fa-facebook-f"></i></a></li>
+                   <li><a href="https://twitter.com/TeamOPMarketing" target="-blank"><i className="fab fa-twitter"></i></a></li>
+                    {/* <li><a href="youtube.com"><i className="fab fa-youtube"></i></a></li> */}
+                    <li><a href="https://www.linkedin.com/company/oneplusmarketingteam/" target="-blank"><i className="fab fa-linkedin"></i></a></li>
                 </ul>
             </div>
             </div> 
