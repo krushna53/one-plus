@@ -35,18 +35,18 @@ function OurTeam(){
 
                     </div>
                 </div>
-                {/* <div className="team">
+                {<div className="team">
                     <div className="thumbnail">
                         <img src={img3} alt=".." className="team-img" />                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
                         <div className="caption">
-                        <h4>KOICHI YOKOZEKI</h4>
-                        <p>Partner & Project Lead</p>
+                        <h4>Emma Davis</h4>
+                        <p>Marketing & Strategy Consultant </p>
                         
-                        <a href="https://www.linkedin.com/in/koichi-yokozeki-b45675159/" target="_blank" rel="noreferrer"><i className="fa-brands fa-linkedin-in" aria-hidden="true" target="_blank"></i></a>
+                        <a href="https://www.linkedin.com/in/emma-davies-co-uk/" target="_blank" rel="noreferrer"><i className="fa-brands fa-linkedin-in" aria-hidden="true" target="_blank"></i></a>
                         </div>
 
                     </div>
-                </div> */}
+                </div>}
                </div>
               
                 </div>
