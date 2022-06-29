@@ -1,6 +1,7 @@
 import React from "react";
 import img1 from "../images/1580247670118.jfif";
 import img2 from "../images/aditi.jfif";
+import img3 from "../images/EmmaDavies.jpeg";
 // import img3 from "../images/KOICHIYOKOZEKI.jpeg";
 
 
@@ -31,6 +32,16 @@ function OurTeam(){
                         <h4>ADITI AYARE</h4>
                         <p>Partner & Project Lead</p>
                         <a href="https://www.linkedin.com/in/aditiayare/" target="blank" rel="noreferrer"><i className="fa-brands fa-linkedin-in" aria-hidden="true"></i></a>
+                        </div>
+
+                    </div>
+                <div className="team">
+                    <div className="thumbnail">
+                    <img src={img3} alt=".." className="team-img" /> 
+                        <div className="caption">
+                        <h4>EMMA DAVIES</h4>
+                        <p>Marketing & Strategy Consultant</p>
+                        <a href="https://www.linkedin.com/in/emma-davies-co-uk/" target="blank" rel="noreferrer"><i className="fa-brands fa-linkedin-in" aria-hidden="true"></i></a>
                         </div>
 
                     </div>
