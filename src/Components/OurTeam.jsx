@@ -1,6 +1,6 @@
 import React from "react";
 import img1 from "../images/1580247670118.jfif";
-import img2 from "../images/aditi.jfif";
+import img2 from "../images/aditi1.png";
 import img3 from "../images/EmmaDavies.jpeg";
 // import img3 from "../images/KOICHIYOKOZEKI.jpeg";
 
