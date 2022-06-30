@@ -566,7 +566,10 @@ h2 {
 .our-team-section .thumbnail {
   background: transparent;
   border: 0;
-  text-align: center;
+ 
+}
+.our-team-section .thumbnail{
+  text-align: center !important;
 }
 
 .our-team-section .thumbnail .caption {
