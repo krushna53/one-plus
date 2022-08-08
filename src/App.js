@@ -1,5 +1,6 @@
 import React from 'react';
 import './css/index.css';
+import '@fortawesome/react-fontawesome';
 import Menu from './Components/Menu';
 import WhatMakeUs from './Components/WhatMakeUs';
 // import Test from './Components/test';
